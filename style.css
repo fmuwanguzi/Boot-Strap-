@@ -7,3 +7,12 @@ a{
 .mb-0:hover{
 cursor: pointer;
 }
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: green;
+    text-align: center;
+    
+}
